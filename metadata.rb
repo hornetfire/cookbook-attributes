@@ -1,0 +1,7 @@
+name 'hornetfire-attributes'
+maintainer 'Hudson Graham'
+maintainer_email 'hudson.graham@gmail.com'
+license 'all_rights'
+description 'Installs/Configures cookbook-attributes'
+long_description 'Installs/Configures cookbook-attributes'
+version '0.1.0'
