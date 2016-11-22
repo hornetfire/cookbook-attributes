@@ -1,4 +1,5 @@
 # cookbook-attributes
 
-TODO: Enter the cookbook description here.
+Chef cookbook training - working with attributes
 
+pixelypants.com
